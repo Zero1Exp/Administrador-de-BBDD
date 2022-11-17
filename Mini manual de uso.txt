@@ -1,0 +1,26 @@
+
+Librerias Usadas:
+ - tkinter (visuals)
+ - pymysql (MySQL connection)
+ - pyinstaller (generator .exe)
+
+Aclaracion:
+"Se necesita Xampp con Mysql prendido para su funcionamiento"
+
+Se puede:
+Crear y borrar Bases de datos, tablas, filas y columnas,
+ademas de visualizarlas.
+
+cuando se cliquea en un objeto de las listas abajo en los
+campos de edicion apareceran y podras elegir que hacer, esto
+solo con las bases de datos y tablas.
+
+Para agregar columnas tendras que poner el nombre de la
+de la columna que quicieras tener y separado su tipo de dato
+y longitud ej: "NombreCol varchar(20)" y para borrar el nombre
+de la columna.
+
+Para agregar filas de igual forma se tendra que poner los
+datos con un espacio y una coma ej: "1, NombreFil, 20, algo"
+ y para borrar ej, "id=(id)" o "tambien columna=(valor)".
+ 
